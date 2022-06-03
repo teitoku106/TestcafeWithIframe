@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "testcafe": "^1.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "env-cmd": "^10.1.0",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "scripts": {
+    "dev-debug": "testcafe firefox tests/regression/pc-xxxx-createNewClient-test.js --debug-on-fail --reporter html:reports/reportFile.html "
+  }
+}

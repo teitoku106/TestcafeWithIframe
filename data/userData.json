@@ -1,0 +1,11 @@
+{
+    "new_account": [
+        {
+            "yourName": "Tam Pham",
+            "phoneNumber": "+61412345678",
+            "emailAddress": "tamphamautotest@gmail.com",
+            "companyName": "ABCDEF"
+        }
+    ]
+    
+}
