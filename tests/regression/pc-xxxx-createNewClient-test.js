@@ -16,7 +16,7 @@ test
   async () => {
     //input [Your name] - [Phone Number] - [Email address] - [Company name] 
     await createNewClient.createNewUser();
-    //input [Select type of Industry]
+    //input [Select type of Industry, in this example I select "Health"]
     await createNewClient.selectIndustry("Health");
     //Click checkbox for Terms And Conditions
     await createNewClient.termsAndConditionsCheckBox();
