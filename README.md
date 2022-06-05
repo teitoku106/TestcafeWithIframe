@@ -21,12 +21,15 @@ Instruction:
 ----------------------------------------------------------------------------------------------
 
 Folder structure
+
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/73167411/171829433-ed60ec9c-2cf0-4d23-b268-65adfc44f0fb.png">
 
 
 Functions
+
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/73167411/172040531-cb7b7c4e-3c38-46b9-bab1-dae1dcc564f0.png">
 
 
 Test Report
+
 ![image](https://user-images.githubusercontent.com/73167411/171829478-482102f3-83ae-4894-b0a0-1978e4fa7784.png)
