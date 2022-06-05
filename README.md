@@ -4,6 +4,10 @@ This repo contains a simple testscript handling iframe using Testcafe with Javas
 
 Author: Tam Pham (Kyle)
 
+----------------------------------------------------------------------------------------------
+Cypress version: https://github.com/teitoku106/CypressWithIframe
+----------------------------------------------------------------------------------------------
+
 Instruction:
 
 1. Clone this Repo and open using Visual Studio Code
